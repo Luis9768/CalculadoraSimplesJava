@@ -52,7 +52,7 @@ public class CalculadoraSimples {
             System.out.println(); // linha em branco para separar os cálculos
         }
 
-        input.close(); // Corrigido aqui!
+        input.close(); /
     }
 }
 
